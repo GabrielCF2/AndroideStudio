@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade5</string>
+    <string name="textBoasVindas">Batata</string>
+    <string name="editTextLogin">Digite o seu nome</string>
+    <string name="editTextSenha">Digite a sua senha</string>
+    <string name="buttonLogin">Login</string>
+    <string name="title_activity_tela">telaA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textoE">Batata</string>
+    <string name="BtnActivityMain">Tela A</string>
+</resources>
