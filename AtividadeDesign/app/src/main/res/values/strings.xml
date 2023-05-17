@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade Design</string>
+    <string name="button1T1">Explore os arredores</string>
+    <string name="button1T2">Voe para a árvore</string>
+    <string name="button2T2">Continue explorando</string>
+    <string name="button1T3">Volte por onde veio</string>
+    <string name="button2T3">Continue explorando</string>
+    <string name="button1T4">Voe para a árvore</string>
+    <string name="TextoMain">Uma árvore</string>
+    <string name="TextoTela3">Que gatinho bonito</string>
+    <string name="TextoTela4">A sua jornada chegou ao fim</string>
+    <string name="Texto2Tela4">Olha que gatinho bonitinho</string>
+</resources>

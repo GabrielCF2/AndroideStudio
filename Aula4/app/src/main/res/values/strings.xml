@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aula4</string>
+    <string name="Login">Avatar</string>
+    <string name="Entrar">ENTRAR</string>
+    <string name="EntrarSenha">Nome do usuário</string>
+    <string name="tcheckbox">CheckBox</string>
+    <string name="ttextview">TextView</string>
+    <string name="timagebuttom">ImageButtom</string>
+    <string name="timageview">ImageView</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="tbutton">Button</string>
+    <string name="tprogressbar">ProgressBar</string>
+</resources>
