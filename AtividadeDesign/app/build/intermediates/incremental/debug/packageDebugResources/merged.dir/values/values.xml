@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_1">#121FE6</color>
+    <color name="green_1">#56EB54</color>
+    <color name="green_2">#9EEE9D</color>
+    <color name="green_3">#286B27</color>
+    <color name="green_4">#476B47</color>
+    <color name="green_5">#44B842</color>
+    <color name="green_6">#E60B07</color>
+    <color name="green_7">#E6211E</color>
+    <color name="orange_1">#E6BD1E</color>
+    <color name="pink_1">#1EE65D</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Texto2Tela4">Olha que gatinho bonitinho</string>
+    <string name="TextoMain">Uma árvore</string>
+    <string name="TextoTela3">Que gatinho bonito</string>
+    <string name="TextoTela4">A sua jornada chegou ao fim</string>
+    <string name="app_name">Atividade Design</string>
+    <string name="button1T1">Explore os arredores</string>
+    <string name="button1T2">Voe para a árvore</string>
+    <string name="button1T3">Volte por onde veio</string>
+    <string name="button1T4">Voe para a árvore</string>
+    <string name="button2T2">Continue explorando</string>
+    <string name="button2T3">Continue explorando</string>
+    <style name="Theme.AtividadeDesign" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Monocromatico" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/green_1</item>
+        <item name="colorPrimaryVariant">@color/green_2</item>
+        <item name="colorOnPrimary">@color/green_3</item>
+        <item name="colorSecondary">@color/green_4</item>
+        <item name="colorSecondaryVariant">@color/green_5</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+    <style name="Theme.Quadratico" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/green_6</item>
+        <item name="colorPrimaryVariant">@color/green_7</item>
+        <item name="colorOnPrimary">@color/orange_1</item>
+        <item name="colorSecondary">@color/pink_1</item>
+        <item name="colorSecondaryVariant">@color/blue_1</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+    </style>
+</resources>

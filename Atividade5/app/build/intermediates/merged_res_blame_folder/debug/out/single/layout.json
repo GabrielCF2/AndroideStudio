@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_tela_c.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_tela_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_tela.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_tela.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_bem_vindo.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_bem_vindo.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_tela_b.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_tela_b.xml"
+    },
+    {
+        "merged": "com.example.atividade5.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.atividade5.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_tela_e.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_tela_e.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-mergeDebugResources-46:\\layout\\activity_tela_d.xml",
+        "source": "C:\\Users\\gabri\\.gradle\\daemon\\7.5\\com.example.atividade5.app-main-49:\\layout\\activity_tela_d.xml"
+    }
+]
