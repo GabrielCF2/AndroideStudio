@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeuAloMundo</string>
+    <string name="msg_boas_vindas">Bem Vindos ao meu Aplicativo</string>
+    <string name="texto_login">Digite aqui seu login</string>
+    <string name="plain_text_nome">Nome do usuário</string>
+    <string name="text_view_senha">Digite sua senha</string>
+    <string name="buttonLogin">Entrar</string>
+</resources>
