@@ -11,4 +11,8 @@ class AloFragment : Fragment() {
                               savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment_alo,container,false)
     }
+
+    fun hello() {
+        TODO("Not yet implemented")
+    }
 }

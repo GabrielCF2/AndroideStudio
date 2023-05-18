@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prova1</string>
+    <string name="TextoLogin">Name</string>
+    <string name="BotaoLogin">Button</string>
+    <string name="TextoBoasVindas">Bem Vindo</string>
+    <string name="MenuPedido">Pedido</string>
+    <string name="TextoPedido">Pedido</string>
+</resources>
