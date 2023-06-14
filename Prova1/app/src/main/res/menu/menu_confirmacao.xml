@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/confirmar_pedido"
+        android:id="@+id/Confirmar"
+        app:showAsAction="always"/>
+    <item android:title="@string/voltar"
+        android:id="@+id/Voltar"/>
+    <item android:title="@string/sair"
+        android:id="@+id/Sair"/>
+</menu>

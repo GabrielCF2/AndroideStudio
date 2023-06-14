@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+<!--    Cores diferenciadas-->
+    <color name="verde1">#A9FA61</color>
+    <color name="verde2">#56FD75</color>
+    <color name="verde3">#5FE34D</color>
+    <color name="verde4">#C7E34D</color>
+    <color name="amarelo1">#FDF556</color>
+
 </resources>

@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">Prova1</string>
-    <string name="TextoLogin">Name</string>
-    <string name="BotaoLogin">Button</string>
+    <string name="TextoLogin">Nome</string>
+    <string name="BotaoLogin">Entrar</string>
     <string name="TextoBoasVindas">Bem Vindo</string>
     <string name="MenuPedido">Pedido</string>
     <string name="TextoPedido">Pedido</string>
+    <string name="textoPedido">TextView</string>
+    <string name="TextoQuantidade">TextView</string>
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+    <string name="voltar">Voltar</string>
+    <string name="sair">Sair</string>
 </resources>
